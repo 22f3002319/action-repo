@@ -4,10 +4,6 @@ Use this file to make changes and trigger webhook events.
 Make edits, commit, and push to trigger PUSH events.
 Create branches and PRs to trigger PULL_REQUEST events.
 Merge PRs to trigger MERGE events.
-<<<<<<< HEAD
 
-Test push - 2026-01-31 18:45 UTC
-Testing webhook receiver on Render deployment.
-=======
-just a sample commit
->>>>>>> c5ac9d45c8997f37426eb4ff8ec0420edb3656fd
+Test push - 2026-01-31 19:35 UTC
+Final test after webhook secret configuration.
