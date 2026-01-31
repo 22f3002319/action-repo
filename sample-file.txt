@@ -7,3 +7,6 @@ Merge PRs to trigger MERGE events.
 
 Test push - 2026-01-31 19:35 UTC
 Final test after webhook secret configuration.
+
+Test push - 2026-01-31 19:40 UTC
+Testing webhook after content type fix.
